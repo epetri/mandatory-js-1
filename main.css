@@ -1,0 +1,41 @@
+body {
+  background-image: url(https://www.aquiconfidencial.es/wp-content/uploads/2018/07/Alimentos-bio-light-trang%C3%A9nicos.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+h1 {
+  color: red;
+  text-shadow: 0px 0px 6px white;
+}
+
+ul  {
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  justify-content: space-around;
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: red;
+  font-weight: bold;
+}
+
+main {
+  padding-top: 50px;
+  position: relative;
+  color: white;
+  font-weight: bold;
+}
+
+table {
+  margin: auto;
+  text-align: center;
+  font-size: 12px;
+}
+
+td {
+  padding: 5px;
+}
